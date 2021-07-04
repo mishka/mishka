@@ -4,7 +4,6 @@
   <br><br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mishka&theme=cobalt&layout=compact" alt="GitHub Status" />
 </p>
-<hr>
 <p align="center"> 
   <i><b>Spotify 🎶</b></i>
   <br><br>
